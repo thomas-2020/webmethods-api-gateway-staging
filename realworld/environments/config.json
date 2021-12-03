@@ -4,19 +4,19 @@
 	"values": [
 		{
 			"key": "hostname",
-			"value": "realconfig.gateway.webmethodscloud.de",
+			"value": "daehgcs56055.hycloud.softwareag.com",
 			"type": "text",
 			"enabled": true
 		},
 		{
 			"key": "ip",
-			"value": "realconfig.gateway.webmethodscloud.de",
+			"value": "daehgcs56055.hycloud.softwareag.com",
 			"type": "text",
 			"enabled": true
 		},
 		{
 			"key": "port",
-			"value": "443",
+			"value": "11013",
 			"type": "text",
 			"enabled": true
 		}
