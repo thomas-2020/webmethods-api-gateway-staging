@@ -19,6 +19,12 @@
 			"value": "11013",
 			"type": "text",
 			"enabled": true
+		},
+		{
+			"key": "insecureflag",
+			"value": "--insecure",
+			"type": "text",
+			"enabled": true
 		}
 	],
 	"_postman_variable_scope": "environment",
