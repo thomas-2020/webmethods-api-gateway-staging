@@ -1,6 +1,6 @@
 {
   "id": "f313be5f-2640-22f7-36b6-3e79bbadc9e2",
-  "name": "StageExtEnvironment",
+  "name": "ProdIntEnvironment",
 	"values": [
 		{
 			"key": "hostname",
@@ -16,7 +16,7 @@
 		},
 		{
 			"key": "port",
-			"value": "11023",
+			"value": "11013",
 			"type": "text",
 			"enabled": true
 		},
