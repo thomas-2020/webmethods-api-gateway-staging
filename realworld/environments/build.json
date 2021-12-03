@@ -4,19 +4,25 @@
 	"values": [
 		{
 			"key": "hostname",
-			"value": "realbuild.gateway.webmethodscloud.de",
+			"value": "daehgcs56055.hycloud.softwareag.com",
 			"type": "text",
 			"enabled": true
 		},
 		{
 			"key": "ip",
-			"value": "realbuild.gateway.webmethodscloud.de",
+			"value": "daehgcs56055.hycloud.softwareag.com",
 			"type": "text",
 			"enabled": true
 		},
 		{
 			"key": "port",
-			"value": "443",
+			"value": "11003",
+			"type": "text",
+			"enabled": true
+		},
+		{
+			"key": "insecureflag",
+			"value": "--insecure",
 			"type": "text",
 			"enabled": true
 		}
