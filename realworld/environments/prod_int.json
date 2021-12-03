@@ -4,19 +4,25 @@
 	"values": [
 		{
 			"key": "hostname",
-			"value": "realprodint.gateway.webmethodscloud.de",
+			"value": "daehgcs56056.hycloud.softwareag.com",
 			"type": "text",
 			"enabled": true
 		},
 		{
 			"key": "ip",
-			"value": "realprodint.gateway.webmethodscloud.de",
+			"value": "daehgcs56056.hycloud.softwareag.com",
 			"type": "text",
 			"enabled": true
 		},
 		{
 			"key": "port",
-			"value": "443",
+			"value": "11013",
+			"type": "text",
+			"enabled": true
+		},
+		{
+			"key": "insecureflag",
+			"value": "--insecure",
 			"type": "text",
 			"enabled": true
 		}
